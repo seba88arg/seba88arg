@@ -8,6 +8,7 @@ Analista de datos en Buenos Aires, con más de 10 años en el sector salud (obra
 | --- | --- | --- |
 | [Health Claims BI Dashboard](https://github.com/seba88arg/health-claims-dashboard) | Dashboard de reclamos de salud: KPIs, tendencias, detección de prestadores anómalos y controles de calidad de datos. [App en vivo](https://health-claims-dashboard.streamlit.app) | Python · SQL · Streamlit |
 | [Mortalidad en Argentina](https://github.com/seba88arg/mortalidad_argentina_eda) | Análisis exploratorio de 376.000 defunciones con datos oficiales de la DEIS | Python · pandas · Seaborn |
+| [Estado Tech](https://github.com/seba88arg/estado-tech-demo) | Extensión de Chrome que hice para mi equipo: muestra en una pantalla el estado en Tech de cada ticket derivado en Jira y avisa si hay tickets parecidos. La usan 6 personas. [Demo con datos de ejemplo](https://seba88arg.github.io/estado-tech-demo/) | JavaScript · API REST de Jira · Chrome |
 | [SELECTective](https://github.com/seba88arg/selectective) | Juego de misterio para aprender SQL en el navegador. [Jugar](https://selectective.netlify.app) | JavaScript · SQLite (WASM) |
 | [SELECTective Python](https://github.com/seba88arg/selectective-python) | El mismo misterio, para practicar pandas en Google Colab con corrección automática | Python · pandas · Jupyter |
 | [NLP de reseñas de hoteles](https://github.com/seba88arg/ProyectoDSIII) | Clasificación de sentimiento de reseñas de TripAdvisor con NLP y deep learning | Python · NLP · Deep Learning |
